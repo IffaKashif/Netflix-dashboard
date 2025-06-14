@@ -23,7 +23,3 @@ This Power BI project visualizes Netflix viewership data across devices, countri
 
 - `dashboard.pbix` – Power BI dashboard file
 - `netflix-viewership-dashboard.png` – Screenshot of the dashboard
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
