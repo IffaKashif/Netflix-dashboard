@@ -12,18 +12,17 @@ This Power BI project visualizes Netflix viewership data across devices, countri
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](https://github.com/IffaKashif/Netflix-dashboard/blob/main/netflix-viewership-dashboard.png)
 
 ## Tech Stack
 
 - Power BI Desktop
 - Data visualization best practices
-- Optional: CSV data preprocessing in Excel or Python (if applicable)
 
 ## Project Files
 
 - `dashboard.pbix` – Power BI dashboard file
-- `images/dashboard-preview.png` – Screenshot of the dashboard
+- `netflix-viewership-dashboard.png` – Screenshot of the dashboard
 
 ## License
 
